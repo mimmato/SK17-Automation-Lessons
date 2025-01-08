@@ -12,8 +12,8 @@ public class l5_e1_largest_number {
         int biggestNumber = numbers[0];
 
         for(int number : numbers) {
-//            System.out.println("Current biggest number is: " + biggestNumber);
-//            System.out.println("Current number is " + number);
+            System.out.println("Current biggest number is: " + biggestNumber);
+            System.out.println("Current number is " + number);
             if (biggestNumber < number){
                 System.out.println("Comparing the biggest number: " + biggestNumber + " to the current number: " + number);
 //                break;
