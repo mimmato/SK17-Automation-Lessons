@@ -53,7 +53,7 @@ public class vacationOption3Switch {
 
             default:
                 System.out.println("There is no information about this type of vacation.");
-                return; // to stop the execution if none of the switch cases are met
+//                return; // to stop the execution if none of the switch cases are met
 //                  break;
         }
         }
