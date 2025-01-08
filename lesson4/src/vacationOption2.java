@@ -17,7 +17,7 @@ public class vacationOption2 {
 //        if ((Objects.equals(vacType, "Beach") || Objects.equals(vacType, "Mountain"))) {
         if ((vacType == "Beach" || vacType == "Mountain")) {
 
-            // Beach vacation logic
+
             if (vacType.equals("Beach") && budget < 50) {
                 System.out.println("Your destination is Bulgaria.");
             } else if (vacType.equals("Beach")) {

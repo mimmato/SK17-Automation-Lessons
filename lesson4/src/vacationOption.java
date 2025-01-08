@@ -17,14 +17,14 @@ public class vacationOption {
         // Check if the vacation type is valid
         if ((Objects.equals(vacType, "Beach") || Objects.equals(vacType, "Mountain"))) {
 
-            // Beach vacation logic
+
             if (vacType.equals("Beach") && budget < 50) {
                 System.out.println("Your destination is Bulgaria.");
             } else if (vacType.equals("Beach")) {
                 System.out.println("Your destination is outside Bulgaria.");
             }
 
-            // Mountain vacation logic
+
             if (vacType.equals("Mountain") && budget < 30) {
                 System.out.println("Your destination is Bulgaria.");
             } else if (vacType.equals("Mountain")) {
