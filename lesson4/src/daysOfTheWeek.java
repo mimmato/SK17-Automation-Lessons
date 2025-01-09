@@ -37,11 +37,8 @@ public class daysOfTheWeek {
             dayOfWeek = "Sunday";
             suffix = "th";
 
-
-
-
-
-           System.out.println("The " + day + suffix + " day of the week is " + dayOfWeek);
         }
+        System.out.println("The " + day + suffix + " day of the week is " + dayOfWeek);
+
     }
 }
