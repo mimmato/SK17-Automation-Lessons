@@ -14,6 +14,7 @@ public class l6_e1_print_sum_array {
 //
 //        }
 //        System.out.println("The sum generated with a For loop is: " + sum);
+        // for each loop
 
 
 
