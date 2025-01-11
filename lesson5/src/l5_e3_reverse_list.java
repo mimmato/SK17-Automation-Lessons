@@ -30,7 +30,6 @@ public class l5_e3_reverse_list {
             System.out.println("Numbers in reverse using For loop: " + numbers[i]);
         }
 
-
 //        String result = " ";
 //        for (int i = strNumbers.length()-1; i >= 0; i--)
 //            result+=strNumbers.charAt(numbers);
