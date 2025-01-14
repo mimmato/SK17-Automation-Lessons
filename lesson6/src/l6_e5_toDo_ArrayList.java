@@ -87,9 +87,6 @@ public class l6_e5_toDo_ArrayList {
             System.out.println("Here are the items in the ArrayList: " + arrayList);
 
 
-            System.out.println("Here are the items in the ArrayList: " + arrayList);
-
-
 //        System.out.println("Do you want to add more tasks?");
 //
 //
