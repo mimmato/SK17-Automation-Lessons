@@ -86,18 +86,6 @@ public class l6_e5_toDo_ArrayList {
             }
             System.out.println("Here are the items in the ArrayList: " + arrayList);
 
-
-//        System.out.println("Do you want to add more tasks?");
-//
-//
-//
-//        System.out.println("Which item from the list do you want to see? (Enter its index)");
-//
-//
-//        arrayList<Integer> = scanner.nextInt();
-//
-//        System.out.println("This is the task you added: " + arrayList.get(0));
-
         }
     }
 }
